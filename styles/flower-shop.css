@@ -101,3 +101,32 @@ header {
     text-align: center;
     padding-bottom: 60px;
 }
+
+/* footer styles */
+
+.footer{
+    margin-top: 130px;
+    background-color: black;
+}
+
+.fdiv1{
+    text-align: center;
+}
+
+.fh3{
+    color: #E55473;
+    padding-top: 60px;
+}
+
+#shop{
+    color: #FFF;
+}
+
+#fp1{
+    color: rgba(255, 255, 255, 0.90);
+}
+
+#fp2{
+    color: rgba(255, 255, 255, 0.40);
+    padding-bottom: 60px;
+}
