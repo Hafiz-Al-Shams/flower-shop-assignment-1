@@ -12,7 +12,7 @@ header {
 }
 
 .headerdiv {
-    margin: 130px 140px;
+    margin: 130px 300px 130px 120px;
     text-align: left;
 }
 
@@ -37,4 +37,5 @@ header {
 #hi1 {
     width: 600px;
     height: 500px;
+    margin-right: 150px;
 }
