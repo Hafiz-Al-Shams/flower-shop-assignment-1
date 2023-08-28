@@ -1,0 +1,40 @@
+/* common shared styles */
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* header styles */
+
+header {
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.headerdiv {
+    margin: 130px 140px;
+    text-align: left;
+}
+
+#hh1 {
+    color: #272727;
+    font-weight: 800;
+}
+
+#hp1 {
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+}
+
+#hb1 {
+    padding: 13px 14px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: white;
+}
+
+#hi1 {
+    width: 600px;
+    height: 500px;
+}
