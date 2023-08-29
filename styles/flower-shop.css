@@ -84,20 +84,20 @@ header {
     height: 300px;
 }
 
-.ms2idiv{
+.ms2idiv {
     margin: 10px 120px 20px;
     /* justify-content: center; */
 }
 
-#ms2i1{
+#ms2i1 {
     margin-right: 27px;
 }
 
-#ms2i2{
+#ms2i2 {
     margin-right: 27px;
 }
 
-#ms2i3{
+#ms2i3 {
     margin-right: 27px;
 }
 
@@ -122,29 +122,80 @@ header {
 
 /* footer styles */
 
-.footer{
+.footer {
     margin-top: 130px;
     background-color: black;
 }
 
-.fdiv1{
+.fdiv1 {
     text-align: center;
 }
 
-.fh3{
+.fh3 {
     color: #E55473;
     padding-top: 60px;
 }
 
-#shop{
+#shop {
     color: #FFF;
 }
 
-#fp1{
+#fp1 {
     color: rgba(255, 255, 255, 0.90);
 }
 
-#fp2{
+#fp2 {
     color: rgba(255, 255, 255, 0.40);
     padding-bottom: 60px;
+}
+
+
+/* bonus mark part */
+
+.ms11 {
+    margin-top: 130px;
+}
+
+.ms11div1 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.ms2i2 {
+    width: 220px;
+    height: 260px;
+}
+
+.ms11idiv {
+    margin: 10px 120px 20px;
+}
+
+#ms11i1 {
+    margin-right: 100px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 50px 30px 0 30px;
+}
+
+#ms11i2 {
+    margin-right: 100px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 50px 30px 0 30px;
+}
+
+#ms11i3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 50px 30px 0 30px;
+}
+
+#ms11ul {
+    display: flex;
+    margin-left: 120px;
+}
+
+#ms11ul>li>a {
+    color: black;
+    margin-right: 270px;
 }
