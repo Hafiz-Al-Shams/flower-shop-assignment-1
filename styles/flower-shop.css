@@ -80,10 +80,27 @@ header {
 }
 
 .ms2i {
-    width: 200px;
-    height: 240px;
-    margin: 10px 60px;
+    width: 250px;
+    height: 300px;
 }
+
+.ms2idiv{
+    margin: 10px 120px 20px;
+    /* justify-content: center; */
+}
+
+#ms2i1{
+    margin-right: 27px;
+}
+
+#ms2i2{
+    margin-right: 27px;
+}
+
+#ms2i3{
+    margin-right: 27px;
+}
+
 
 /* main-section-3 */
 
@@ -95,6 +112,7 @@ header {
 
 .ms3 {
     background-image: url('../images/Rectangle\ 9.png');
+    margin: 20px 120px;
 }
 
 .ms3div2 {
