@@ -38,6 +38,7 @@ header {
     width: 600px;
     height: 500px;
     margin-right: 150px;
+    padding-top: 50px;
 }
 
 /* <main> part CSS starts from here */
@@ -120,6 +121,12 @@ header {
     padding-bottom: 60px;
 }
 
+#ms3input {
+    border: 0;
+    height: 40px;
+    border-radius: 6px;
+}
+
 /* footer styles */
 
 .footer {
@@ -150,7 +157,7 @@ header {
 }
 
 
-/* bonus mark part */
+/* bonus part-1 */
 
 .ms11 {
     margin-top: 130px;
@@ -198,4 +205,36 @@ header {
 #ms11ul>li>a {
     color: black;
     margin-right: 270px;
+}
+
+/* bonus part-2 */
+
+.ms12 {
+    background: rgba(39, 39, 39, 0.05);
+    margin: 130px 120px;
+}
+
+.ms12i {
+    margin-left: 170px;
+    padding-top: 60px;
+}
+
+.ms12ul {
+    display: flex;
+    margin-left: 70px;
+    padding-bottom: 60px;
+}
+
+.ms12ul>li {
+    margin-right: 125px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+}
+
+#ms12i1 {
+    margin-right: 270px;
+}
+
+#ms12i2 {
+    margin-right: 210px;
 }
